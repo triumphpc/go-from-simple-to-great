@@ -21,3 +21,7 @@ type House struct {
 func (h House) String() string {
 	return fmt.Sprintf("The house name is %q and is the color %s.", h.Name, h.Color)
 }
+
+func init() {
+
+}

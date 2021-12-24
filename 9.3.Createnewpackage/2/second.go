@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"main/github.com/triumphpc/go-cource/9.3/general"
+	"github.com/triumphpc/go-from-simple-to-great/go-from-simple-to-great/9.3.Createnewpackage/general"
 )
 
 func main() {
