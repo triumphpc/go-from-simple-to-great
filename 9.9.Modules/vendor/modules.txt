@@ -1,0 +1,6 @@
+# github.com/triumphpc/go-fstg-modexam v1.0.3
+## explicit
+github.com/triumphpc/go-fstg-modexam
+# github.com/triumphpc/go-fstg-modexam/v6 v6.0.0
+## explicit
+github.com/triumphpc/go-fstg-modexam/v6

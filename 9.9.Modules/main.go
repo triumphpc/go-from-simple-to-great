@@ -2,9 +2,13 @@ package main
 
 import (
 	"fmt"
-	"github.com/triumphpc/go-fstg-moduleexample"
+	m "github.com/triumphpc/go-fstg-modexam"
+	m2 "github.com/triumphpc/go-fstg-modexam/v6"
 )
 
 func main() {
-	fmt.Println(go_fstg_moduleexample.Hi("Alex"))
+	fmt.Println(m.Hi("Alex"))
+
+	fmt.Println(m2.Hi("Alex", "New string"))
+
 }
